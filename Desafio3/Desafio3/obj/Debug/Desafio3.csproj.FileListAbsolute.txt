@@ -1,0 +1,7 @@
+C:\Users\50246\Desktop\Desafío Arreglos\Desafio3\Desafio3\bin\Debug\Desafio3.exe.config
+C:\Users\50246\Desktop\Desafío Arreglos\Desafio3\Desafio3\bin\Debug\Desafio3.exe
+C:\Users\50246\Desktop\Desafío Arreglos\Desafio3\Desafio3\bin\Debug\Desafio3.pdb
+C:\Users\50246\Desktop\Desafío Arreglos\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.AssemblyReference.cache
+C:\Users\50246\Desktop\Desafío Arreglos\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Desafío Arreglos\Desafio3\Desafio3\obj\Debug\Desafio3.exe
+C:\Users\50246\Desktop\Desafío Arreglos\Desafio3\Desafio3\obj\Debug\Desafio3.pdb
